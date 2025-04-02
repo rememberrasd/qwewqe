@@ -1,0 +1,600 @@
+[2025-04-02 23:52:50] | SUCCESS  | retweeted: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:52:50] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:52:50] | DEBUG    | İşlenecek URL: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:52:50] | DEBUG    | Yorum metni: @libre80049 @aprilla53100 @sport1357901...
+[2025-04-02 23:52:53] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:52:54] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:53:02] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:53:21] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:53:21] | WARNING  | comment failed: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:53:30] | INFO     | progress saved: bekir44969
+[2025-04-02 23:53:30] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:53:30] | DEBUG    | Progress saved
+[2025-04-02 23:53:30] | DEBUG    | process url: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:53:54] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:54:06] | SUCCESS  | liked: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:54:08] | DEBUG    | wait time: 17 seconds
+[2025-04-02 23:54:25] | SUCCESS  | retweeted: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:54:25] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:54:25] | DEBUG    | İşlenecek URL: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:54:25] | DEBUG    | Yorum metni: @aprilla53100 @libre80049 @sport1357901...
+[2025-04-02 23:54:28] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:54:28] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:54:37] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:54:55] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:54:55] | WARNING  | comment failed: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:55:01] | INFO     | progress saved: bekir44969
+[2025-04-02 23:55:01] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:55:01] | DEBUG    | Progress saved
+[2025-04-02 23:55:07] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:55:20] | SUCCESS  | session active - element found - 2025-04-02 23:55:20
+[2025-04-02 23:55:20] | DEBUG    | process url: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:55:43] | DEBUG    | wait time: 8 seconds
+[2025-04-02 23:55:51] | SUCCESS  | liked: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:55:55] | DEBUG    | wait time: 17 seconds
+[2025-04-02 23:56:12] | SUCCESS  | retweeted: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:56:12] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:56:12] | DEBUG    | İşlenecek URL: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:56:12] | DEBUG    | Yorum metni: @iktidar159 @sport1357901 @libre80049...
+[2025-04-02 23:56:15] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:56:15] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:56:23] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:56:42] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:56:42] | WARNING  | comment failed: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:56:48] | INFO     | progress saved: bekir44969
+[2025-04-02 23:56:48] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:56:48] | DEBUG    | Progress saved
+[2025-04-02 23:56:48] | DEBUG    | process url: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:11] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:57:24] | SUCCESS  | liked: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:26] | DEBUG    | wait time: 19 seconds
+[2025-04-02 23:57:45] | SUCCESS  | retweeted: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:45] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:57:45] | DEBUG    | İşlenecek URL: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:45] | DEBUG    | Yorum metni: @aprilla53100 @iktidar159 @sport1357901 @vagon1103...
+[2025-04-02 23:57:48] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:57:48] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:57:59] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:58:17] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:58:17] | WARNING  | comment failed: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:58:24] | INFO     | progress saved: bekir44969
+[2025-04-02 23:58:24] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:58:24] | DEBUG    | Progress saved
+[2025-04-02 23:58:30] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:58:43] | SUCCESS  | session active - element found - 2025-04-02 23:58:43
+[2025-04-02 23:58:43] | DEBUG    | process url: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:09] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:59:21] | SUCCESS  | liked: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:23] | DEBUG    | wait time: 16 seconds
+[2025-04-02 23:59:39] | SUCCESS  | retweeted: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:39] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:59:39] | DEBUG    | İşlenecek URL: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:39] | DEBUG    | Yorum metni: @libre80049 @sport1357901 @aprilla53100...
+[2025-04-02 23:59:42] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:59:42] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:59:50] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:00:09] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:00:09] | WARNING  | comment failed: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-03 00:00:14] | INFO     | progress saved: bekir44969
+[2025-04-03 00:00:14] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:00:14] | DEBUG    | Progress saved
+[2025-04-03 00:00:14] | DEBUG    | process url: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:00:40] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:00:54] | SUCCESS  | liked: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:00:56] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:01:16] | SUCCESS  | retweeted: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:01:16] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:01:16] | DEBUG    | İşlenecek URL: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:01:16] | DEBUG    | Yorum metni: @vagon1103 @libre80049 @sport1357901...
+[2025-04-03 00:01:19] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:01:19] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:01:27] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:01:46] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:01:46] | WARNING  | comment failed: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:01:54] | INFO     | progress saved: bekir44969
+[2025-04-03 00:01:54] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:01:54] | DEBUG    | Progress saved
+[2025-04-03 00:02:00] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:02:13] | SUCCESS  | session active - element found - 2025-04-03 00:02:13
+[2025-04-03 00:02:13] | DEBUG    | process url: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:02:38] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:02:52] | SUCCESS  | liked: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:02:55] | DEBUG    | wait time: 18 seconds
+[2025-04-03 00:03:13] | SUCCESS  | retweeted: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:03:13] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:03:13] | DEBUG    | İşlenecek URL: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:03:13] | DEBUG    | Yorum metni: @libre80049 @aprilla53100 @vagon1103...
+[2025-04-03 00:03:16] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:03:16] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:03:24] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:03:43] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:03:43] | WARNING  | comment failed: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:03:49] | INFO     | progress saved: bekir44969
+[2025-04-03 00:03:49] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:03:49] | DEBUG    | Progress saved
+[2025-04-03 00:03:49] | DEBUG    | process url: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:14] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:04:28] | SUCCESS  | liked: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:30] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:04:50] | SUCCESS  | retweeted: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:50] | INFO     | skip comment for: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:58] | INFO     | progress saved: bekir44969
+[2025-04-03 00:04:58] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:04:58] | DEBUG    | Progress saved
+[2025-04-03 00:05:04] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:05:15] | SUCCESS  | session active - element found - 2025-04-03 00:05:15
+[2025-04-03 00:05:15] | DEBUG    | process url: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:05:40] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:05:54] | SUCCESS  | liked: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:05:58] | DEBUG    | wait time: 16 seconds
+[2025-04-03 00:06:14] | SUCCESS  | retweeted: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:06:14] | INFO     | skip comment for: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:06:19] | INFO     | progress saved: bekir44969
+[2025-04-03 00:06:19] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:06:19] | DEBUG    | Progress saved
+[2025-04-03 00:06:19] | DEBUG    | process url: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:06:46] | DEBUG    | wait time: 15 seconds
+[2025-04-03 00:07:01] | SUCCESS  | liked: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:07:04] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:07:17] | SUCCESS  | retweeted: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:07:17] | INFO     | skip comment for: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:07:27] | INFO     | progress saved: bekir44969
+[2025-04-03 00:07:27] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:07:27] | DEBUG    | Progress saved
+[2025-04-03 00:07:33] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:07:45] | SUCCESS  | session active - element found - 2025-04-03 00:07:45
+[2025-04-03 00:07:45] | DEBUG    | process url: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:08] | DEBUG    | wait time: 10 seconds
+[2025-04-03 00:08:18] | SUCCESS  | liked: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:22] | DEBUG    | wait time: 16 seconds
+[2025-04-03 00:08:38] | SUCCESS  | retweeted: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:38] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:08:38] | DEBUG    | İşlenecek URL: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:38] | DEBUG    | Yorum metni: @aprilla53100 @iktidar159 @vagon1103 @sport1357901...
+[2025-04-03 00:08:41] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:08:41] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:08:51] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:09:10] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:09:10] | WARNING  | comment failed: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:09:18] | INFO     | progress saved: bekir44969
+[2025-04-03 00:09:18] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:09:18] | DEBUG    | Progress saved
+[2025-04-03 00:09:18] | DEBUG    | process url: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:09:42] | DEBUG    | wait time: 12 seconds
+[2025-04-03 00:09:54] | SUCCESS  | liked: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:09:57] | DEBUG    | wait time: 10 seconds
+[2025-04-03 00:10:07] | SUCCESS  | retweeted: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:10:07] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:10:07] | DEBUG    | İşlenecek URL: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:10:07] | DEBUG    | Yorum metni: @aprilla53100 @vagon1103 @libre80049...
+[2025-04-03 00:10:10] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:10:10] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:10:19] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:10:38] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:10:38] | WARNING  | comment failed: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:10:48] | INFO     | progress saved: bekir44969
+[2025-04-03 00:10:48] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:10:48] | DEBUG    | Progress saved
+[2025-04-03 00:10:54] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:11:05] | SUCCESS  | session active - element found - 2025-04-03 00:11:05
+[2025-04-03 00:11:05] | DEBUG    | process url: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:28] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:11:41] | SUCCESS  | liked: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:44] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:11:57] | SUCCESS  | retweeted: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:57] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:11:57] | DEBUG    | İşlenecek URL: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:57] | DEBUG    | Yorum metni: @aprilla53100 @libre80049 @sport1357901 #propfirme...
+[2025-04-03 00:12:00] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:12:00] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:12:09] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:12:28] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:12:28] | WARNING  | comment failed: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:12:35] | INFO     | progress saved: bekir44969
+[2025-04-03 00:12:35] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:12:35] | DEBUG    | Progress saved
+[2025-04-03 00:12:35] | DEBUG    | process url: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:00] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:13:14] | SUCCESS  | liked: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:17] | DEBUG    | wait time: 12 seconds
+[2025-04-03 00:13:29] | SUCCESS  | retweeted: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:29] | INFO     | skip comment for: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:38] | INFO     | progress saved: bekir44969
+[2025-04-03 00:13:38] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:13:38] | DEBUG    | Progress saved
+[2025-04-03 00:13:44] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:13:56] | SUCCESS  | session active - element found - 2025-04-03 00:13:56
+[2025-04-03 00:13:56] | DEBUG    | process url: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:21] | DEBUG    | wait time: 11 seconds
+[2025-04-03 00:14:32] | SUCCESS  | liked: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:36] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:14:49] | SUCCESS  | retweeted: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:49] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:14:49] | DEBUG    | İşlenecek URL: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:49] | DEBUG    | Yorum metni: Feeling lucky, let’s win this together🍀...
+[2025-04-03 00:14:52] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:14:52] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:15:00] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B94AF2]
+        (No symbol) [0x00B534E2]
+        (No symbol) [0x00B52A17]
+        (No symbol) [0x00B7D7BC]
+        (No symbol) [0x00B4E114]
+        (No symbol) [0x00B7DA34]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:15:00] | WARNING  | comment failed: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:15:05] | INFO     | progress saved: bekir44969
+[2025-04-03 00:15:05] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:15:05] | DEBUG    | Progress saved
+[2025-04-03 00:15:05] | DEBUG    | process url: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:15:30] | DEBUG    | wait time: 12 seconds
+[2025-04-03 00:15:42] | SUCCESS  | liked: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:15:46] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:16:06] | SUCCESS  | retweeted: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:16:06] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:16:06] | DEBUG    | İşlenecek URL: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:16:06] | DEBUG    | Yorum metni: @libre80049 @iktidar159 @vagon1103...
+[2025-04-03 00:16:09] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:16:09] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:16:18] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:16:36] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:16:36] | WARNING  | comment failed: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:16:44] | INFO     | progress saved: bekir44969
+[2025-04-03 00:16:44] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:16:44] | DEBUG    | Progress saved
+[2025-04-03 00:16:51] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:17:02] | SUCCESS  | session active - element found - 2025-04-03 00:17:02
+[2025-04-03 00:17:02] | DEBUG    | process url: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:17:28] | DEBUG    | wait time: 9 seconds
+[2025-04-03 00:17:37] | SUCCESS  | liked: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:17:41] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:18:01] | SUCCESS  | retweeted: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:18:01] | INFO     | skip comment for: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:18:09] | INFO     | progress saved: bekir44969
+[2025-04-03 00:18:09] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:18:09] | DEBUG    | Progress saved
+[2025-04-03 00:18:09] | DEBUG    | process url: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:18:35] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:18:49] | SUCCESS  | liked: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:18:53] | DEBUG    | wait time: 17 seconds
+[2025-04-03 00:19:10] | SUCCESS  | retweeted: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:19:10] | INFO     | skip comment for: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:19:16] | INFO     | progress saved: bekir44969
+[2025-04-03 00:19:16] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:19:16] | DEBUG    | Progress saved
+[2025-04-03 00:19:16] | DEBUG    | starting tweet operations for bekir44969
+[2025-04-03 00:19:16] | INFO     | Posting 1 tweets from sentence_to_tweet for bekir44969
+[2025-04-03 00:19:16] | INFO     | initiating tweet sharing - bekir44969
+[2025-04-03 00:19:16] | DEBUG    | tweet text: Nature is the best therapyTake a walk outside🌳...
+[2025-04-03 00:19:36] | DEBUG    | tweet text entered
+[2025-04-03 00:20:09] | ERROR    | tweet sharing error - bekir44969, error: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:20:09] | ERROR    | Failed to post tweet: Nature is the best therapyTake a walk outside🌳
+[2025-04-03 00:20:14] | DEBUG    | starting random RT and fav operations for bekir44969
+[2025-04-03 00:20:14] | INFO     | random tweet/rt actions started
+[2025-04-03 00:20:14] | INFO     | 2025-04-03 00:20:14
+[2025-04-03 00:20:14] | INFO     | bekir44969
+[2025-04-03 00:20:14] | INFO     | target tweet count: 1
+[2025-04-03 00:20:14] | DEBUG    | shared links loaded - total: 62
+[2025-04-03 00:20:14] | DEBUG    | configuration loaded - RSS feed count: 21
+[2025-04-03 00:20:14] | DEBUG    | selected RSS feed: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:15] | WARNING  | this feed has no new news: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:15] | DEBUG    | shared links loaded - total: 62
+[2025-04-03 00:20:15] | DEBUG    | configuration loaded - RSS feed count: 21
+[2025-04-03 00:20:15] | DEBUG    | selected RSS feed: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:16] | WARNING  | this feed has no new news: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:16] | DEBUG    | shared links loaded - total: 62
+[2025-04-03 00:20:16] | DEBUG    | configuration loaded - RSS feed count: 21
+[2025-04-03 00:20:16] | DEBUG    | selected RSS feed: https://www.sciencealert.com/rss
+[2025-04-03 00:20:17] | DEBUG    | new link saved: https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans
+[2025-04-03 00:20:17] | INFO     | news selected - Title: Once Lush Sahara Was Home to a Surprisingly Unique...
+[2025-04-03 00:20:17] | INFO     | initiating tweet sharing - bekir44969
+[2025-04-03 00:20:17] | DEBUG    | tweet text: Once Lush Sahara Was Home to a Surprisingly Unique...
+[2025-04-03 00:20:44] | DEBUG    | tweet text entered
