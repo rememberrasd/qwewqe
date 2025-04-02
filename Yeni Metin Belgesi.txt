@@ -1,0 +1,1472 @@
+[2025-04-02 23:07:15] | WARNING  | rate limit reason, waiting...
+[2025-04-02 23:07:23] | INFO     | total number of giveaways found: 24
+[2025-04-02 23:07:23] | INFO     | doublon: 7
+[2025-04-02 23:07:23] | SUCCESS  | search operation completed, bot giveaways will start.
+[2025-04-02 23:07:23] | INFO     | saved 24 urls to recent_url.txt
+[2025-04-02 23:07:23] | INFO     | loaded 25 urls from recent_url.txt
+[2025-04-02 23:07:27] | INFO     |
+checking the tweet:  Prop Firm Accounts Giveaway Alert!
+x3 50k Two St...
+[2025-04-02 23:07:27] | INFO     | the generic comment word 'friends' was detected.
+[2025-04-02 23:07:27] | INFO     | tweet owner added: realaditrades
+[2025-04-02 23:07:27] | INFO     |
+accounts to follow:
+[2025-04-02 23:07:27] | INFO     | - @fundedmarketp
+[2025-04-02 23:07:27] | INFO     | - @realaditrades
+[2025-04-02 23:07:27] | DEBUG    | tweet processed: https://x.com/realaditrades/status/1907335506720866595
+[2025-04-02 23:07:36] | INFO     |
+checking the tweet: FREE $25,000 Challenges!
+
+ Follow
+@alphatraderfi...
+[2025-04-02 23:07:36] | INFO     | the generic comment word 'comment' was detected.
+[2025-04-02 23:07:36] | INFO     | tweet owner added: alphatraderfirm
+[2025-04-02 23:07:36] | INFO     |
+accounts to follow:
+[2025-04-02 23:07:36] | INFO     | - @alphatraderfirm
+[2025-04-02 23:07:36] | DEBUG    | tweet processed: https://x.com/alphatraderfirm/status/1907002832366231615
+[2025-04-02 23:07:46] | INFO     |
+checking the tweet: Giveaway Alert
+3 X 10k$ Rapid Challenge
+
+Must Fol...
+[2025-04-02 23:07:46] | INFO     | the generic comment word '3 friends' was detected.
+[2025-04-02 23:07:46] | INFO     | tweet owner added: jabz_fx
+[2025-04-02 23:07:46] | INFO     |
+accounts to follow:
+[2025-04-02 23:07:46] | INFO     | - @bbfnigeria
+[2025-04-02 23:07:46] | INFO     | - @blueberryfunded
+[2025-04-02 23:07:46] | INFO     | - @ghost_riderfx
+[2025-04-02 23:07:46] | INFO     | - @jabz_fx
+[2025-04-02 23:07:46] | INFO     | - @rb_tradingltd
+[2025-04-02 23:07:46] | DEBUG    | tweet processed: https://x.com/JABZ_FX/status/1907446709212393841
+[2025-04-02 23:07:56] | INFO     |
+checking the tweet: Account of all sizes can now be purchased on
+@Blu...
+[2025-04-02 23:07:56] | INFO     | no need to tag.
+[2025-04-02 23:07:56] | INFO     | tweet owner added: dukedarls
+[2025-04-02 23:07:56] | INFO     |
+accounts to follow:
+[2025-04-02 23:07:56] | INFO     | - @blueberryfunded
+[2025-04-02 23:07:56] | INFO     | - @dukedarls
+[2025-04-02 23:07:56] | DEBUG    | tweet processed: https://x.com/DukeDarls/status/1907333656344928276
+[2025-04-02 23:08:04] | INFO     |
+checking the tweet: Giveaway  alert
+
+3×10k challenge account
+
+Follow ...
+[2025-04-02 23:08:04] | INFO     | people list word detected.
+[2025-04-02 23:08:04] | INFO     | tweet owner added: northern1trader
+[2025-04-02 23:08:04] | INFO     |
+accounts to follow:
+[2025-04-02 23:08:04] | INFO     | - @blueberryfunded
+[2025-04-02 23:08:04] | INFO     | - @northern1trader
+[2025-04-02 23:08:04] | DEBUG    | tweet processed: https://x.com/Northern1trader/status/1907311083183899114
+[2025-04-02 23:08:16] | INFO     |
+checking the tweet: Current Lowest $XAUUSD Spreads
+@BlueberryFunded
+ ...
+[2025-04-02 23:08:16] | INFO     | no need to tag.
+[2025-04-02 23:08:16] | INFO     | tweet owner added: propfirmmatch
+[2025-04-02 23:08:16] | INFO     |
+accounts to follow:
+[2025-04-02 23:08:16] | INFO     | - @alphacapitaluk
+[2025-04-02 23:08:16] | INFO     | - @blueberryfunded
+[2025-04-02 23:08:16] | INFO     | - @fundingpips
+[2025-04-02 23:08:16] | INFO     | - @instantfunding_
+[2025-04-02 23:08:16] | INFO     | - @oandaproptrader
+[2025-04-02 23:08:16] | INFO     | - @propfirmmatch
+[2025-04-02 23:08:16] | DEBUG    | tweet processed: https://x.com/PropFirmMatch/status/1906741904831557962
+[2025-04-02 23:08:29] | INFO     |
+checking the tweet:  1x $10k Account Giveaway
+
+Vote For us on Tradin...
+[2025-04-02 23:08:29] | INFO     | the generic comment word 'tag 3' was detected.
+[2025-04-02 23:08:29] | INFO     | tweet owner added: sas_here7
+[2025-04-02 23:08:29] | INFO     |
+accounts to follow:
+[2025-04-02 23:08:29] | INFO     | - @atlasfundedcom
+[2025-04-02 23:08:29] | INFO     | - @sas_here7
+[2025-04-02 23:08:29] | DEBUG    | tweet processed: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:08:39] | INFO     |
+checking the tweet:  1x $10k Account Giveaway
+
+ Must Follow
+@atlasfu...
+[2025-04-02 23:08:39] | INFO     | the generic comment word 'tag 3' was detected.
+[2025-04-02 23:08:39] | INFO     | tweet owner added: major__fx
+[2025-04-02 23:08:39] | INFO     |
+accounts to follow:
+[2025-04-02 23:08:39] | INFO     | - @atlasfundedcom
+[2025-04-02 23:08:39] | INFO     | - @major__fx
+[2025-04-02 23:08:39] | DEBUG    | tweet processed: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:08:48] | INFO     |
+checking the tweet:  1x $10k Account Giveaway  |
+
+Vote For us on Tradi...
+[2025-04-02 23:08:48] | INFO     | the generic comment word 'tag 3' was detected.
+[2025-04-02 23:08:48] | INFO     | tweet owner added: larlarskie1
+[2025-04-02 23:08:48] | INFO     |
+accounts to follow:
+[2025-04-02 23:08:48] | INFO     | - @atlasfundedcom
+[2025-04-02 23:08:48] | INFO     | - @larlarskie1
+[2025-04-02 23:08:48] | DEBUG    | tweet processed: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:09:00] | INFO     |
+checking the tweet:  50k Giveaway
+
+Follow :
+@BlueGuardiancom
+ |
+@P...
+[2025-04-02 23:09:00] | INFO     | the generic comment word 'friends' was detected.
+[2025-04-02 23:09:00] | INFO     | tweet owner added: pooja_fx
+[2025-04-02 23:09:00] | INFO     |
+accounts to follow:
+[2025-04-02 23:09:00] | INFO     | - @ankita_trades
+[2025-04-02 23:09:00] | INFO     | - @blueguardiancom
+[2025-04-02 23:09:00] | INFO     | - @earnmyforex
+[2025-04-02 23:09:00] | INFO     | - @pooja_fx
+[2025-04-02 23:09:00] | DEBUG    | tweet processed: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:09:12] | INFO     |
+checking the tweet: $100,000 Giveaway Alert
+ Rules:
+1. Follow
+@srikris...
+[2025-04-02 23:09:12] | INFO     | the generic comment word '3 friends' was detected.
+[2025-04-02 23:09:12] | INFO     | tweet owner added: srikrish_kd
+[2025-04-02 23:09:12] | INFO     |
+accounts to follow:
+[2025-04-02 23:09:12] | INFO     | - @guardianfutures
+[2025-04-02 23:09:12] | INFO     | - @iamsixthsense7
+[2025-04-02 23:09:12] | INFO     | - @srikrish_kd
+[2025-04-02 23:09:12] | DEBUG    | tweet processed: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:09:25] | INFO     |
+checking the tweet: 3 × $5,000 Challenge Giveaway
+
+1.Follow
+@african...
+[2025-04-02 23:09:25] | INFO     | the generic comment word 'tag 3' was detected.
+[2025-04-02 23:09:25] | INFO     | tweet owner added: reeyah_sa
+[2025-04-02 23:09:25] | INFO     |
+accounts to follow:
+[2025-04-02 23:09:25] | INFO     | - @african_pips
+[2025-04-02 23:09:25] | INFO     | - @goatfunded
+[2025-04-02 23:09:25] | INFO     | - @reeyah_sa
+[2025-04-02 23:09:25] | DEBUG    | tweet processed: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-02 23:09:33] | INFO     |
+checking the tweet: $100K GIVEAWAY ALERT
+
+2 x 50k GFF ACCOUNTS GIVEA...
+[2025-04-02 23:09:33] | INFO     | the generic comment word 'tag 3' was detected.
+[2025-04-02 23:09:33] | INFO     | tweet owner added: realtraderseun
+[2025-04-02 23:09:33] | INFO     |
+accounts to follow:
+[2025-04-02 23:09:33] | INFO     | - @edwardxlreal
+[2025-04-02 23:09:33] | INFO     | - @forextvofficial
+[2025-04-02 23:09:33] | INFO     | - @gffutures
+[2025-04-02 23:09:33] | INFO     | - @mohd_taheer01
+[2025-04-02 23:09:33] | INFO     | - @realtraderseun
+[2025-04-02 23:09:33] | DEBUG    | tweet processed: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-02 23:09:46] | INFO     |
+checking the tweet: Really cool seeing how far our reach is getting. A...
+[2025-04-02 23:09:46] | INFO     | no need to tag.
+[2025-04-02 23:09:46] | INFO     | tweet owner added: bpchaffee
+[2025-04-02 23:09:46] | INFO     |
+accounts to follow:
+[2025-04-02 23:09:46] | INFO     | - @alpha_futures_
+[2025-04-02 23:09:46] | INFO     | - @bpchaffee
+[2025-04-02 23:09:46] | DEBUG    | tweet processed: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-02 23:09:54] | INFO     |
+checking the tweet:  Remittix $250,000 Giveaway – Time is Running Out!...
+[2025-04-02 23:09:54] | INFO     | no need to tag.
+[2025-04-02 23:09:54] | INFO     | tweet owner added: remittix
+[2025-04-02 23:09:54] | INFO     |
+accounts to follow:
+[2025-04-02 23:09:54] | INFO     | - @remittix
+[2025-04-02 23:09:54] | DEBUG    | tweet processed: https://x.com/remittix/status/1907178063466537220
+[2025-04-02 23:10:07] | INFO     |
+checking the tweet: 100K GIVEAWAY ALERT
+
+To enter:
+Like the TWEET
+ Re...
+[2025-04-02 23:10:07] | INFO     | no need to tag.
+[2025-04-02 23:10:07] | INFO     | tweet owner added: kale_3d
+[2025-04-02 23:10:07] | INFO     |
+accounts to follow:
+[2025-04-02 23:10:07] | INFO     | - @kale_3d
+[2025-04-02 23:10:07] | DEBUG    | tweet processed: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-02 23:10:21] | INFO     |
+checking the tweet: GIVEAWAY
+
+5X $5,000
+
+ RULES:
+ Follow
+@mostylzz
+...
+[2025-04-02 23:10:21] | INFO     | the generic comment word 'comment' was detected.
+[2025-04-02 23:10:21] | INFO     | tweet owner added: mostylzz
+[2025-04-02 23:10:21] | INFO     |
+accounts to follow:
+[2025-04-02 23:10:21] | INFO     | - @mostylzz
+[2025-04-02 23:10:21] | INFO     | - @thepropvault_
+[2025-04-02 23:10:21] | DEBUG    | tweet processed: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-02 23:10:29] | INFO     |
+checking the tweet: GFT PROP ACCOUNT GIVEAWAY!!!
+
+$15k accounts giveaw...
+[2025-04-02 23:10:29] | INFO     | the generic comment word '3 friends' was detected.
+[2025-04-02 23:10:29] | INFO     | tweet owner added: tradersamm
+[2025-04-02 23:10:29] | INFO     |
+accounts to follow:
+[2025-04-02 23:10:29] | INFO     | - @gffutures
+[2025-04-02 23:10:29] | INFO     | - @goatfunded
+[2025-04-02 23:10:29] | INFO     | - @mtjsoftware
+[2025-04-02 23:10:29] | INFO     | - @tradersamm
+[2025-04-02 23:10:29] | DEBUG    | tweet processed: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-02 23:10:39] | INFO     |
+checking the tweet:  $50K Funded Account Giveaway!
+
+We are collaborat...
+[2025-04-02 23:10:39] | INFO     | the generic comment word 'comment' was detected.
+[2025-04-02 23:10:39] | INFO     | tweet owner added: propfirmedge
+[2025-04-02 23:10:39] | INFO     |
+accounts to follow:
+[2025-04-02 23:10:39] | INFO     | - @nathan_neomaaa
+[2025-04-02 23:10:39] | INFO     | - @neomaaafunds
+[2025-04-02 23:10:39] | INFO     | - @propfirmedge
+[2025-04-02 23:10:39] | INFO     | - @propfirmedge2
+[2025-04-02 23:10:39] | DEBUG    | tweet processed: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-02 23:10:51] | INFO     |
+checking the tweet: FUNDED ACCOUNT GIVEAWAY
+
+PRIZE: 3 x $50k accounts
+...
+[2025-04-02 23:10:51] | INFO     | no need to tag.
+[2025-04-02 23:10:51] | INFO     | tweet owner added: carwhorns
+[2025-04-02 23:10:51] | INFO     |
+accounts to follow:
+[2025-04-02 23:10:51] | INFO     | - @carwhorns
+[2025-04-02 23:10:51] | DEBUG    | tweet processed: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-02 23:11:03] | INFO     |
+checking the tweet: Next 5x $25k Giveaway (every week until june)
+1. L...
+[2025-04-02 23:11:03] | INFO     | the generic comment word 'comment' was detected.
+[2025-04-02 23:11:03] | INFO     | tweet owner added: wannabechamp
+[2025-04-02 23:11:03] | INFO     |
+accounts to follow:
+[2025-04-02 23:11:03] | INFO     | - @ckcapitaluk_
+[2025-04-02 23:11:03] | INFO     | - @wannabechamp
+[2025-04-02 23:11:03] | DEBUG    | tweet processed: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-02 23:11:15] | INFO     |
+checking the tweet: $25k Giveaway
+(5x 5k 2-Step Accounts)
+
+HOW TO ENT...
+[2025-04-02 23:11:15] | INFO     | the generic comment word 'comment' was detected.
+[2025-04-02 23:11:15] | INFO     | tweet owner added: waymac_x
+[2025-04-02 23:11:15] | INFO     |
+accounts to follow:
+[2025-04-02 23:11:15] | INFO     | - @1mrgold1
+[2025-04-02 23:11:15] | INFO     | - @bbfnigeria
+[2025-04-02 23:11:15] | INFO     | - @blueberryfunded
+[2025-04-02 23:11:15] | INFO     | - @pgdesignsage
+[2025-04-02 23:11:15] | INFO     | - @waymac_x
+[2025-04-02 23:11:15] | DEBUG    | tweet processed: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-02 23:11:27] | INFO     |
+checking the tweet:  LAST CHANCE!
+
+The draw for 3 x $25K Funded Accou...
+[2025-04-02 23:11:27] | INFO     | no need to tag.
+[2025-04-02 23:11:27] | INFO     | tweet owner added: fundedxprop
+[2025-04-02 23:11:27] | INFO     |
+accounts to follow:
+[2025-04-02 23:11:27] | INFO     | - @fundedxprop
+[2025-04-02 23:11:27] | DEBUG    | tweet processed: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-02 23:11:36] | INFO     |
+checking the tweet:  GIVEAWAY ALERT!
+
+We’re giving away 3 x $25K Fund...
+[2025-04-02 23:11:36] | INFO     | no need to tag.
+[2025-04-02 23:11:36] | INFO     | tweet owner added: fundedxprop
+[2025-04-02 23:11:36] | INFO     |
+accounts to follow:
+[2025-04-02 23:11:36] | INFO     | - @fundedxprop
+[2025-04-02 23:11:36] | DEBUG    | tweet processed: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-02 23:11:43] | INFO     | unique accounts to follow: 53
+[2025-04-02 23:11:43] | INFO     | accounts to follow:
+[2025-04-02 23:11:43] | INFO     |  - fundedmarketp
+[2025-04-02 23:11:43] | INFO     |  - realaditrades
+[2025-04-02 23:11:43] | INFO     |  - alphatraderfirm
+[2025-04-02 23:11:43] | INFO     |  - bbfnigeria
+[2025-04-02 23:11:43] | INFO     |  - blueberryfunded
+[2025-04-02 23:11:43] | INFO     |  - ghost_riderfx
+[2025-04-02 23:11:43] | INFO     |  - jabz_fx
+[2025-04-02 23:11:43] | INFO     |  - rb_tradingltd
+[2025-04-02 23:11:43] | INFO     |  - dukedarls
+[2025-04-02 23:11:43] | INFO     |  - northern1trader
+[2025-04-02 23:11:43] | INFO     |  - alphacapitaluk
+[2025-04-02 23:11:43] | INFO     |  - fundingpips
+[2025-04-02 23:11:43] | INFO     |  - instantfunding_
+[2025-04-02 23:11:43] | INFO     |  - oandaproptrader
+[2025-04-02 23:11:43] | INFO     |  - propfirmmatch
+[2025-04-02 23:11:43] | INFO     |  - atlasfundedcom
+[2025-04-02 23:11:43] | INFO     |  - sas_here7
+[2025-04-02 23:11:43] | INFO     |  - major__fx
+[2025-04-02 23:11:43] | INFO     |  - larlarskie1
+[2025-04-02 23:11:43] | INFO     |  - ankita_trades
+[2025-04-02 23:11:43] | INFO     |  - blueguardiancom
+[2025-04-02 23:11:43] | INFO     |  - earnmyforex
+[2025-04-02 23:11:43] | INFO     |  - pooja_fx
+[2025-04-02 23:11:43] | INFO     |  - guardianfutures
+[2025-04-02 23:11:43] | INFO     |  - iamsixthsense7
+[2025-04-02 23:11:43] | INFO     |  - srikrish_kd
+[2025-04-02 23:11:43] | INFO     |  - african_pips
+[2025-04-02 23:11:43] | INFO     |  - goatfunded
+[2025-04-02 23:11:43] | INFO     |  - reeyah_sa
+[2025-04-02 23:11:43] | INFO     |  - edwardxlreal
+[2025-04-02 23:11:43] | INFO     |  - forextvofficial
+[2025-04-02 23:11:43] | INFO     |  - gffutures
+[2025-04-02 23:11:43] | INFO     |  - mohd_taheer01
+[2025-04-02 23:11:43] | INFO     |  - realtraderseun
+[2025-04-02 23:11:43] | INFO     |  - alpha_futures_
+[2025-04-02 23:11:43] | INFO     |  - bpchaffee
+[2025-04-02 23:11:43] | INFO     |  - remittix
+[2025-04-02 23:11:43] | INFO     |  - kale_3d
+[2025-04-02 23:11:43] | INFO     |  - mostylzz
+[2025-04-02 23:11:43] | INFO     |  - thepropvault_
+[2025-04-02 23:11:43] | INFO     |  - mtjsoftware
+[2025-04-02 23:11:43] | INFO     |  - tradersamm
+[2025-04-02 23:11:43] | INFO     |  - nathan_neomaaa
+[2025-04-02 23:11:43] | INFO     |  - neomaaafunds
+[2025-04-02 23:11:43] | INFO     |  - propfirmedge
+[2025-04-02 23:11:43] | INFO     |  - propfirmedge2
+[2025-04-02 23:11:43] | INFO     |  - carwhorns
+[2025-04-02 23:11:43] | INFO     |  - ckcapitaluk_
+[2025-04-02 23:11:43] | INFO     |  - wannabechamp
+[2025-04-02 23:11:43] | INFO     |  - 1mrgold1
+[2025-04-02 23:11:43] | INFO     |  - pgdesignsage
+[2025-04-02 23:11:43] | INFO     |  - waymac_x
+[2025-04-02 23:11:43] | INFO     |  - fundedxprop
+[2025-04-02 23:11:43] | INFO     | progress saved: bekir44969
+[2025-04-02 23:11:43] | DEBUG    | saved data: tweet count=24, follow count=0
+[2025-04-02 23:11:43] | DEBUG    | step updated: following
+[2025-04-02 23:11:43] | DEBUG    | starting follow operations...
+[2025-04-02 23:11:49] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:12:00] | SUCCESS  | session active - element found - 2025-04-02 23:12:00
+[2025-04-02 23:12:00] | INFO     | ==================================================
+[2025-04-02 23:12:00] | INFO     | 2025-04-02 23:12:00
+[2025-04-02 23:12:00] | INFO     | follow processing: fundedmarketp
+[2025-04-02 23:12:00] | INFO     | ==================================================
+[2025-04-02 23:12:01] | DEBUG    | fundedmarketp account is already being followed
+[2025-04-02 23:12:16] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:12:28] | SUCCESS  | session active - element found - 2025-04-02 23:12:28
+[2025-04-02 23:12:28] | INFO     | ==================================================
+[2025-04-02 23:12:28] | INFO     | 2025-04-02 23:12:28
+[2025-04-02 23:12:28] | INFO     | follow processing: realaditrades
+[2025-04-02 23:12:28] | INFO     | ==================================================
+[2025-04-02 23:12:29] | DEBUG    | realaditrades account is already being followed
+[2025-04-02 23:12:41] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:12:52] | SUCCESS  | session active - element found - 2025-04-02 23:12:52
+[2025-04-02 23:12:52] | INFO     | ==================================================
+[2025-04-02 23:12:52] | INFO     | 2025-04-02 23:12:52
+[2025-04-02 23:12:52] | INFO     | follow processing: alphatraderfirm
+[2025-04-02 23:12:52] | INFO     | ==================================================
+[2025-04-02 23:12:53] | DEBUG    | alphatraderfirm account is already being followed
+[2025-04-02 23:13:07] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:13:18] | SUCCESS  | session active - element found - 2025-04-02 23:13:18
+[2025-04-02 23:13:18] | INFO     | ==================================================
+[2025-04-02 23:13:18] | INFO     | 2025-04-02 23:13:18
+[2025-04-02 23:13:18] | INFO     | follow processing: bbfnigeria
+[2025-04-02 23:13:18] | INFO     | ==================================================
+[2025-04-02 23:13:25] | SUCCESS  | bbfnigeria account is followed
+[2025-04-02 23:13:25] | INFO     | after the follow-up, 13 seconds will be waited
+[2025-04-02 23:13:38] | INFO     | successfully followed: bbfnigeria
+[2025-04-02 23:13:46] | INFO     | ==================================================
+[2025-04-02 23:13:46] | INFO     | 2025-04-02 23:13:46
+[2025-04-02 23:13:46] | INFO     | follow processing: blueberryfunded
+[2025-04-02 23:13:46] | INFO     | ==================================================
+[2025-04-02 23:14:03] | ERROR    | attempt 1/2
+[2025-04-02 23:14:23] | SUCCESS  | blueberryfunded account is followed
+[2025-04-02 23:14:23] | INFO     | after the follow-up, 11 seconds will be waited
+[2025-04-02 23:14:34] | INFO     | successfully followed: blueberryfunded
+[2025-04-02 23:14:48] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:15:31] | WARNING  | tweet textarea not found on attempt 1
+[2025-04-02 23:15:31] | DEBUG    | Refreshing page and retrying...
+[2025-04-02 23:15:37] | DEBUG    | checking session status, attempt 2...
+[2025-04-02 23:16:21] | WARNING  | tweet textarea not found on attempt 2
+[2025-04-02 23:16:21] | WARNING  | session logout detected - tweet textarea still missing after 2 attempts - 2025-04-02 23:16:21
+[2025-04-02 23:16:36] | DEBUG    | no login prompt found, but tweet textarea missing - possible page load issue
+[2025-04-02 23:16:37] | INFO     | cache, cookies and browser history cleared
+[2025-04-02 23:16:37] | INFO     | cookies successfully cleared
+[2025-04-02 23:16:37] | INFO     | browsing data cleared successfully, ready for login
+[2025-04-02 23:17:03] | INFO     | [session] account session closed, trying to log in again
+[2025-04-02 23:17:03] | INFO     | re-login attempt started - bekir44969
+[2025-04-02 23:17:08] | INFO     | initializing login - bekir44969
+[2025-04-02 23:17:11] | DEBUG    | Attempting to find username field
+[2025-04-02 23:17:11] | DEBUG    | username entered
+[2025-04-02 23:17:11] | DEBUG    | Attempting to click Next button
+[2025-04-02 23:17:11] | DEBUG    | Next button clicked
+[2025-04-02 23:17:11] | DEBUG    | Attempting to find password field
+[2025-04-02 23:17:12] | DEBUG    | password entered
+[2025-04-02 23:17:12] | DEBUG    | Attempting to click login button
+[2025-04-02 23:17:12] | DEBUG    | login button clicked
+[2025-04-02 23:17:12] | DEBUG    | Checking login status
+[2025-04-02 23:17:17] | INFO     | session status check: active - 2025-04-02 23:17:17
+[2025-04-02 23:17:17] | INFO     | login successful - bekir44969
+[2025-04-02 23:17:17] | SUCCESS  | re-login successful: bekir44969 - 2025-04-02 23:17:17
+[2025-04-02 23:17:17] | DEBUG    | cookies are accepted...
+[2025-04-02 23:17:17] | DEBUG    | cookies already accepted
+[2025-04-02 23:17:22] | DEBUG    | notification permission granted...
+[2025-04-02 23:17:22] | DEBUG    | notifications already accepted
+[2025-04-02 23:17:27] | DEBUG    | cookie consent granted...
+[2025-04-02 23:17:27] | DEBUG    | cookies already accepted
+[2025-04-02 23:17:32] | INFO     | session refreshed and logged in again
+[2025-04-02 23:17:32] | INFO     | ==================================================
+[2025-04-02 23:17:32] | INFO     | 2025-04-02 23:17:32
+[2025-04-02 23:17:32] | INFO     | follow processing: ghost_riderfx
+[2025-04-02 23:17:32] | INFO     | ==================================================
+[2025-04-02 23:17:35] | DEBUG    | ghost_riderfx account is already being followed
+[2025-04-02 23:17:51] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:18:05] | SUCCESS  | session active - element found - 2025-04-02 23:18:05
+[2025-04-02 23:18:05] | INFO     | ==================================================
+[2025-04-02 23:18:05] | INFO     | 2025-04-02 23:18:05
+[2025-04-02 23:18:05] | INFO     | follow processing: jabz_fx
+[2025-04-02 23:18:05] | INFO     | ==================================================
+[2025-04-02 23:18:08] | DEBUG    | jabz_fx account is already being followed
+[2025-04-02 23:18:23] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:18:37] | SUCCESS  | session active - element found - 2025-04-02 23:18:37
+[2025-04-02 23:18:37] | INFO     | ==================================================
+[2025-04-02 23:18:37] | INFO     | 2025-04-02 23:18:37
+[2025-04-02 23:18:37] | INFO     | follow processing: rb_tradingltd
+[2025-04-02 23:18:37] | INFO     | ==================================================
+[2025-04-02 23:18:48] | SUCCESS  | rb_tradingltd account is followed
+[2025-04-02 23:18:48] | INFO     | after the follow-up, 12 seconds will be waited
+[2025-04-02 23:19:00] | INFO     | successfully followed: rb_tradingltd
+[2025-04-02 23:19:05] | INFO     | ==================================================
+[2025-04-02 23:19:05] | INFO     | 2025-04-02 23:19:05
+[2025-04-02 23:19:05] | INFO     | follow processing: dukedarls
+[2025-04-02 23:19:05] | INFO     | ==================================================
+[2025-04-02 23:19:13] | SUCCESS  | dukedarls account is followed
+[2025-04-02 23:19:13] | INFO     | after the follow-up, 19 seconds will be waited
+[2025-04-02 23:19:32] | INFO     | successfully followed: dukedarls
+[2025-04-02 23:19:44] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:19:57] | SUCCESS  | session active - element found - 2025-04-02 23:19:57
+[2025-04-02 23:19:57] | INFO     | ==================================================
+[2025-04-02 23:19:57] | INFO     | 2025-04-02 23:19:57
+[2025-04-02 23:19:57] | INFO     | follow processing: northern1trader
+[2025-04-02 23:19:57] | INFO     | ==================================================
+[2025-04-02 23:20:04] | SUCCESS  | northern1trader account is followed
+[2025-04-02 23:20:04] | INFO     | after the follow-up, 12 seconds will be waited
+[2025-04-02 23:20:16] | INFO     | successfully followed: northern1trader
+[2025-04-02 23:20:22] | INFO     | ==================================================
+[2025-04-02 23:20:22] | INFO     | 2025-04-02 23:20:22
+[2025-04-02 23:20:22] | INFO     | follow processing: alphacapitaluk
+[2025-04-02 23:20:22] | INFO     | ==================================================
+[2025-04-02 23:20:23] | DEBUG    | alphacapitaluk account is already being followed
+[2025-04-02 23:20:31] | INFO     | ==================================================
+[2025-04-02 23:20:31] | INFO     | 2025-04-02 23:20:31
+[2025-04-02 23:20:31] | INFO     | follow processing: fundingpips
+[2025-04-02 23:20:31] | INFO     | ==================================================
+[2025-04-02 23:20:33] | DEBUG    | fundingpips account is already being followed
+[2025-04-02 23:20:38] | INFO     | ==================================================
+[2025-04-02 23:20:38] | INFO     | 2025-04-02 23:20:38
+[2025-04-02 23:20:38] | INFO     | follow processing: instantfunding_
+[2025-04-02 23:20:38] | INFO     | ==================================================
+[2025-04-02 23:20:39] | DEBUG    | instantfunding_ account is already being followed
+[2025-04-02 23:20:48] | INFO     | ==================================================
+[2025-04-02 23:20:48] | INFO     | 2025-04-02 23:20:48
+[2025-04-02 23:20:48] | INFO     | follow processing: oandaproptrader
+[2025-04-02 23:20:48] | INFO     | ==================================================
+[2025-04-02 23:20:56] | SUCCESS  | oandaproptrader account is followed
+[2025-04-02 23:20:56] | INFO     | after the follow-up, 13 seconds will be waited
+[2025-04-02 23:21:09] | INFO     | successfully followed: oandaproptrader
+[2025-04-02 23:21:20] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:21:32] | SUCCESS  | session active - element found - 2025-04-02 23:21:32
+[2025-04-02 23:21:32] | INFO     | ==================================================
+[2025-04-02 23:21:32] | INFO     | 2025-04-02 23:21:32
+[2025-04-02 23:21:32] | INFO     | follow processing: propfirmmatch
+[2025-04-02 23:21:32] | INFO     | ==================================================
+[2025-04-02 23:21:33] | DEBUG    | propfirmmatch account is already being followed
+[2025-04-02 23:21:44] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:21:56] | SUCCESS  | session active - element found - 2025-04-02 23:21:56
+[2025-04-02 23:21:56] | INFO     | ==================================================
+[2025-04-02 23:21:56] | INFO     | 2025-04-02 23:21:56
+[2025-04-02 23:21:56] | INFO     | follow processing: atlasfundedcom
+[2025-04-02 23:21:56] | INFO     | ==================================================
+[2025-04-02 23:21:58] | DEBUG    | atlasfundedcom account is already being followed
+[2025-04-02 23:22:14] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:22:26] | SUCCESS  | session active - element found - 2025-04-02 23:22:26
+[2025-04-02 23:22:26] | INFO     | ==================================================
+[2025-04-02 23:22:26] | INFO     | 2025-04-02 23:22:26
+[2025-04-02 23:22:26] | INFO     | follow processing: sas_here7
+[2025-04-02 23:22:26] | INFO     | ==================================================
+[2025-04-02 23:22:33] | SUCCESS  | sas_here7 account is followed
+[2025-04-02 23:22:33] | INFO     | after the follow-up, 17 seconds will be waited
+[2025-04-02 23:22:50] | INFO     | successfully followed: sas_here7
+[2025-04-02 23:23:00] | INFO     | ==================================================
+[2025-04-02 23:23:00] | INFO     | 2025-04-02 23:23:00
+[2025-04-02 23:23:00] | INFO     | follow processing: major__fx
+[2025-04-02 23:23:00] | INFO     | ==================================================
+[2025-04-02 23:23:01] | DEBUG    | major__fx account is already being followed
+[2025-04-02 23:23:06] | INFO     | ==================================================
+[2025-04-02 23:23:06] | INFO     | 2025-04-02 23:23:06
+[2025-04-02 23:23:06] | INFO     | follow processing: larlarskie1
+[2025-04-02 23:23:06] | INFO     | ==================================================
+[2025-04-02 23:23:16] | SUCCESS  | larlarskie1 account is followed
+[2025-04-02 23:23:16] | INFO     | after the follow-up, 10 seconds will be waited
+[2025-04-02 23:23:26] | INFO     | successfully followed: larlarskie1
+[2025-04-02 23:23:41] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:23:53] | SUCCESS  | session active - element found - 2025-04-02 23:23:53
+[2025-04-02 23:23:53] | INFO     | ==================================================
+[2025-04-02 23:23:53] | INFO     | 2025-04-02 23:23:53
+[2025-04-02 23:23:53] | INFO     | follow processing: ankita_trades
+[2025-04-02 23:23:53] | INFO     | ==================================================
+[2025-04-02 23:23:54] | DEBUG    | ankita_trades account is already being followed
+[2025-04-02 23:24:09] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:24:21] | SUCCESS  | session active - element found - 2025-04-02 23:24:21
+[2025-04-02 23:24:21] | INFO     | ==================================================
+[2025-04-02 23:24:21] | INFO     | 2025-04-02 23:24:21
+[2025-04-02 23:24:21] | INFO     | follow processing: blueguardiancom
+[2025-04-02 23:24:21] | INFO     | ==================================================
+[2025-04-02 23:24:23] | DEBUG    | blueguardiancom account is already being followed
+[2025-04-02 23:24:35] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:24:48] | SUCCESS  | session active - element found - 2025-04-02 23:24:48
+[2025-04-02 23:24:48] | INFO     | ==================================================
+[2025-04-02 23:24:48] | INFO     | 2025-04-02 23:24:48
+[2025-04-02 23:24:48] | INFO     | follow processing: earnmyforex
+[2025-04-02 23:24:48] | INFO     | ==================================================
+[2025-04-02 23:25:04] | ERROR    | attempt 1/2
+[2025-04-02 23:25:29] | ERROR    | attempt 2/2
+[2025-04-02 23:25:37] | ERROR    | maximum number of attempts reached - earnmyforex
+[2025-04-02 23:25:43] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:25:55] | SUCCESS  | session active - element found - 2025-04-02 23:25:55
+[2025-04-02 23:25:55] | INFO     | ==================================================
+[2025-04-02 23:25:55] | INFO     | 2025-04-02 23:25:55
+[2025-04-02 23:25:55] | INFO     | follow processing: pooja_fx
+[2025-04-02 23:25:55] | INFO     | ==================================================
+[2025-04-02 23:25:56] | DEBUG    | pooja_fx account is already being followed
+[2025-04-02 23:26:10] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:26:22] | SUCCESS  | session active - element found - 2025-04-02 23:26:22
+[2025-04-02 23:26:22] | INFO     | ==================================================
+[2025-04-02 23:26:22] | INFO     | 2025-04-02 23:26:22
+[2025-04-02 23:26:22] | INFO     | follow processing: guardianfutures
+[2025-04-02 23:26:22] | INFO     | ==================================================
+[2025-04-02 23:26:23] | DEBUG    | guardianfutures account is already being followed
+[2025-04-02 23:26:36] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:26:48] | SUCCESS  | session active - element found - 2025-04-02 23:26:48
+[2025-04-02 23:26:48] | INFO     | ==================================================
+[2025-04-02 23:26:48] | INFO     | 2025-04-02 23:26:48
+[2025-04-02 23:26:48] | INFO     | follow processing: iamsixthsense7
+[2025-04-02 23:26:48] | INFO     | ==================================================
+[2025-04-02 23:27:04] | ERROR    | attempt 1/2
+[2025-04-02 23:27:27] | ERROR    | attempt 2/2
+[2025-04-02 23:27:37] | ERROR    | maximum number of attempts reached - iamsixthsense7
+[2025-04-02 23:27:43] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:27:57] | SUCCESS  | session active - element found - 2025-04-02 23:27:57
+[2025-04-02 23:27:57] | INFO     | ==================================================
+[2025-04-02 23:27:57] | INFO     | 2025-04-02 23:27:57
+[2025-04-02 23:27:57] | INFO     | follow processing: srikrish_kd
+[2025-04-02 23:27:57] | INFO     | ==================================================
+[2025-04-02 23:28:07] | SUCCESS  | srikrish_kd account is followed
+[2025-04-02 23:28:07] | INFO     | after the follow-up, 13 seconds will be waited
+[2025-04-02 23:28:20] | INFO     | successfully followed: srikrish_kd
+[2025-04-02 23:28:29] | INFO     | ==================================================
+[2025-04-02 23:28:29] | INFO     | 2025-04-02 23:28:29
+[2025-04-02 23:28:29] | INFO     | follow processing: african_pips
+[2025-04-02 23:28:29] | INFO     | ==================================================
+[2025-04-02 23:28:38] | SUCCESS  | african_pips account is followed
+[2025-04-02 23:28:38] | INFO     | after the follow-up, 20 seconds will be waited
+[2025-04-02 23:28:58] | INFO     | successfully followed: african_pips
+[2025-04-02 23:29:13] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:29:24] | SUCCESS  | session active - element found - 2025-04-02 23:29:24
+[2025-04-02 23:29:24] | INFO     | ==================================================
+[2025-04-02 23:29:24] | INFO     | 2025-04-02 23:29:24
+[2025-04-02 23:29:24] | INFO     | follow processing: goatfunded
+[2025-04-02 23:29:24] | INFO     | ==================================================
+[2025-04-02 23:29:26] | DEBUG    | goatfunded account is already being followed
+[2025-04-02 23:29:41] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:29:52] | SUCCESS  | session active - element found - 2025-04-02 23:29:52
+[2025-04-02 23:29:52] | INFO     | ==================================================
+[2025-04-02 23:29:52] | INFO     | 2025-04-02 23:29:52
+[2025-04-02 23:29:52] | INFO     | follow processing: reeyah_sa
+[2025-04-02 23:29:52] | INFO     | ==================================================
+[2025-04-02 23:29:54] | DEBUG    | reeyah_sa account is already being followed
+[2025-04-02 23:30:05] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:30:18] | SUCCESS  | session active - element found - 2025-04-02 23:30:18
+[2025-04-02 23:30:18] | INFO     | ==================================================
+[2025-04-02 23:30:18] | INFO     | 2025-04-02 23:30:18
+[2025-04-02 23:30:18] | INFO     | follow processing: edwardxlreal
+[2025-04-02 23:30:18] | INFO     | ==================================================
+[2025-04-02 23:30:20] | DEBUG    | edwardxlreal account is already being followed
+[2025-04-02 23:30:36] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:30:48] | SUCCESS  | session active - element found - 2025-04-02 23:30:48
+[2025-04-02 23:30:48] | INFO     | ==================================================
+[2025-04-02 23:30:48] | INFO     | 2025-04-02 23:30:48
+[2025-04-02 23:30:48] | INFO     | follow processing: forextvofficial
+[2025-04-02 23:30:48] | INFO     | ==================================================
+[2025-04-02 23:30:49] | DEBUG    | forextvofficial account is already being followed
+[2025-04-02 23:31:04] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:31:15] | SUCCESS  | session active - element found - 2025-04-02 23:31:15
+[2025-04-02 23:31:15] | INFO     | ==================================================
+[2025-04-02 23:31:15] | INFO     | 2025-04-02 23:31:15
+[2025-04-02 23:31:15] | INFO     | follow processing: gffutures
+[2025-04-02 23:31:15] | INFO     | ==================================================
+[2025-04-02 23:31:17] | DEBUG    | gffutures account is already being followed
+[2025-04-02 23:31:32] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:31:45] | SUCCESS  | session active - element found - 2025-04-02 23:31:45
+[2025-04-02 23:31:45] | INFO     | ==================================================
+[2025-04-02 23:31:45] | INFO     | 2025-04-02 23:31:45
+[2025-04-02 23:31:45] | INFO     | follow processing: mohd_taheer01
+[2025-04-02 23:31:45] | INFO     | ==================================================
+[2025-04-02 23:31:47] | DEBUG    | mohd_taheer01 account is already being followed
+[2025-04-02 23:31:59] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:32:13] | SUCCESS  | session active - element found - 2025-04-02 23:32:13
+[2025-04-02 23:32:13] | INFO     | ==================================================
+[2025-04-02 23:32:13] | INFO     | 2025-04-02 23:32:13
+[2025-04-02 23:32:13] | INFO     | follow processing: realtraderseun
+[2025-04-02 23:32:13] | INFO     | ==================================================
+[2025-04-02 23:32:20] | SUCCESS  | realtraderseun account is followed
+[2025-04-02 23:32:20] | INFO     | after the follow-up, 13 seconds will be waited
+[2025-04-02 23:32:33] | INFO     | successfully followed: realtraderseun
+[2025-04-02 23:32:42] | INFO     | ==================================================
+[2025-04-02 23:32:42] | INFO     | 2025-04-02 23:32:42
+[2025-04-02 23:32:42] | INFO     | follow processing: alpha_futures_
+[2025-04-02 23:32:42] | INFO     | ==================================================
+[2025-04-02 23:32:43] | DEBUG    | alpha_futures_ account is already being followed
+[2025-04-02 23:32:52] | INFO     | ==================================================
+[2025-04-02 23:32:52] | INFO     | 2025-04-02 23:32:52
+[2025-04-02 23:32:52] | INFO     | follow processing: bpchaffee
+[2025-04-02 23:32:52] | INFO     | ==================================================
+[2025-04-02 23:32:54] | DEBUG    | bpchaffee account is already being followed
+[2025-04-02 23:33:01] | INFO     | ==================================================
+[2025-04-02 23:33:01] | INFO     | 2025-04-02 23:33:01
+[2025-04-02 23:33:01] | INFO     | follow processing: remittix
+[2025-04-02 23:33:01] | INFO     | ==================================================
+[2025-04-02 23:33:12] | SUCCESS  | remittix account is followed
+[2025-04-02 23:33:12] | INFO     | after the follow-up, 15 seconds will be waited
+[2025-04-02 23:33:27] | INFO     | successfully followed: remittix
+[2025-04-02 23:33:38] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:33:51] | SUCCESS  | session active - element found - 2025-04-02 23:33:51
+[2025-04-02 23:33:51] | INFO     | ==================================================
+[2025-04-02 23:33:51] | INFO     | 2025-04-02 23:33:51
+[2025-04-02 23:33:51] | INFO     | follow processing: kale_3d
+[2025-04-02 23:33:51] | INFO     | ==================================================
+[2025-04-02 23:33:57] | SUCCESS  | kale_3d account is followed
+[2025-04-02 23:33:57] | INFO     | after the follow-up, 20 seconds will be waited
+[2025-04-02 23:34:17] | INFO     | successfully followed: kale_3d
+[2025-04-02 23:34:24] | INFO     | ==================================================
+[2025-04-02 23:34:24] | INFO     | 2025-04-02 23:34:24
+[2025-04-02 23:34:24] | INFO     | follow processing: mostylzz
+[2025-04-02 23:34:24] | INFO     | ==================================================
+[2025-04-02 23:34:36] | SUCCESS  | mostylzz account is followed
+[2025-04-02 23:34:36] | INFO     | after the follow-up, 15 seconds will be waited
+[2025-04-02 23:34:51] | INFO     | successfully followed: mostylzz
+[2025-04-02 23:35:04] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:35:16] | SUCCESS  | session active - element found - 2025-04-02 23:35:16
+[2025-04-02 23:35:16] | INFO     | ==================================================
+[2025-04-02 23:35:16] | INFO     | 2025-04-02 23:35:16
+[2025-04-02 23:35:16] | INFO     | follow processing: thepropvault_
+[2025-04-02 23:35:16] | INFO     | ==================================================
+[2025-04-02 23:35:18] | DEBUG    | thepropvault_ account is already being followed
+[2025-04-02 23:35:31] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:35:43] | SUCCESS  | session active - element found - 2025-04-02 23:35:43
+[2025-04-02 23:35:43] | INFO     | ==================================================
+[2025-04-02 23:35:43] | INFO     | 2025-04-02 23:35:43
+[2025-04-02 23:35:43] | INFO     | follow processing: mtjsoftware
+[2025-04-02 23:35:43] | INFO     | ==================================================
+[2025-04-02 23:35:52] | SUCCESS  | mtjsoftware account is followed
+[2025-04-02 23:35:52] | INFO     | after the follow-up, 17 seconds will be waited
+[2025-04-02 23:36:09] | INFO     | successfully followed: mtjsoftware
+[2025-04-02 23:36:17] | INFO     | ==================================================
+[2025-04-02 23:36:17] | INFO     | 2025-04-02 23:36:17
+[2025-04-02 23:36:17] | INFO     | follow processing: tradersamm
+[2025-04-02 23:36:17] | INFO     | ==================================================
+[2025-04-02 23:36:24] | SUCCESS  | tradersamm account is followed
+[2025-04-02 23:36:24] | INFO     | after the follow-up, 11 seconds will be waited
+[2025-04-02 23:36:35] | INFO     | successfully followed: tradersamm
+[2025-04-02 23:36:48] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:37:01] | SUCCESS  | session active - element found - 2025-04-02 23:37:01
+[2025-04-02 23:37:01] | INFO     | ==================================================
+[2025-04-02 23:37:01] | INFO     | 2025-04-02 23:37:01
+[2025-04-02 23:37:01] | INFO     | follow processing: nathan_neomaaa
+[2025-04-02 23:37:01] | INFO     | ==================================================
+[2025-04-02 23:37:07] | SUCCESS  | nathan_neomaaa account is followed
+[2025-04-02 23:37:07] | INFO     | after the follow-up, 11 seconds will be waited
+[2025-04-02 23:37:18] | INFO     | successfully followed: nathan_neomaaa
+[2025-04-02 23:37:25] | INFO     | ==================================================
+[2025-04-02 23:37:25] | INFO     | 2025-04-02 23:37:25
+[2025-04-02 23:37:25] | INFO     | follow processing: neomaaafunds
+[2025-04-02 23:37:25] | INFO     | ==================================================
+[2025-04-02 23:37:37] | SUCCESS  | neomaaafunds account is followed
+[2025-04-02 23:37:37] | INFO     | after the follow-up, 13 seconds will be waited
+[2025-04-02 23:37:50] | INFO     | successfully followed: neomaaafunds
+[2025-04-02 23:38:01] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:38:14] | SUCCESS  | session active - element found - 2025-04-02 23:38:14
+[2025-04-02 23:38:14] | INFO     | ==================================================
+[2025-04-02 23:38:14] | INFO     | 2025-04-02 23:38:14
+[2025-04-02 23:38:14] | INFO     | follow processing: propfirmedge
+[2025-04-02 23:38:14] | INFO     | ==================================================
+[2025-04-02 23:38:15] | DEBUG    | propfirmedge account is already being followed
+[2025-04-02 23:38:28] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:38:41] | SUCCESS  | session active - element found - 2025-04-02 23:38:41
+[2025-04-02 23:38:41] | INFO     | ==================================================
+[2025-04-02 23:38:41] | INFO     | 2025-04-02 23:38:41
+[2025-04-02 23:38:41] | INFO     | follow processing: propfirmedge2
+[2025-04-02 23:38:41] | INFO     | ==================================================
+[2025-04-02 23:38:49] | SUCCESS  | propfirmedge2 account is followed
+[2025-04-02 23:38:49] | INFO     | after the follow-up, 15 seconds will be waited
+[2025-04-02 23:39:04] | INFO     | successfully followed: propfirmedge2
+[2025-04-02 23:39:13] | INFO     | ==================================================
+[2025-04-02 23:39:13] | INFO     | 2025-04-02 23:39:13
+[2025-04-02 23:39:13] | INFO     | follow processing: carwhorns
+[2025-04-02 23:39:13] | INFO     | ==================================================
+[2025-04-02 23:39:23] | SUCCESS  | carwhorns account is followed
+[2025-04-02 23:39:23] | INFO     | after the follow-up, 19 seconds will be waited
+[2025-04-02 23:39:42] | INFO     | successfully followed: carwhorns
+[2025-04-02 23:39:56] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:40:07] | SUCCESS  | session active - element found - 2025-04-02 23:40:07
+[2025-04-02 23:40:07] | INFO     | ==================================================
+[2025-04-02 23:40:07] | INFO     | 2025-04-02 23:40:07
+[2025-04-02 23:40:07] | INFO     | follow processing: ckcapitaluk_
+[2025-04-02 23:40:07] | INFO     | ==================================================
+[2025-04-02 23:40:08] | DEBUG    | ckcapitaluk_ account is already being followed
+[2025-04-02 23:40:19] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:40:33] | SUCCESS  | session active - element found - 2025-04-02 23:40:33
+[2025-04-02 23:40:33] | INFO     | ==================================================
+[2025-04-02 23:40:33] | INFO     | 2025-04-02 23:40:33
+[2025-04-02 23:40:33] | INFO     | follow processing: wannabechamp
+[2025-04-02 23:40:33] | INFO     | ==================================================
+[2025-04-02 23:40:34] | DEBUG    | wannabechamp account is already being followed
+[2025-04-02 23:40:50] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:41:02] | SUCCESS  | session active - element found - 2025-04-02 23:41:02
+[2025-04-02 23:41:02] | INFO     | ==================================================
+[2025-04-02 23:41:02] | INFO     | 2025-04-02 23:41:02
+[2025-04-02 23:41:02] | INFO     | follow processing: 1mrgold1
+[2025-04-02 23:41:02] | INFO     | ==================================================
+[2025-04-02 23:41:04] | DEBUG    | 1mrgold1 account is already being followed
+[2025-04-02 23:41:16] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:41:27] | SUCCESS  | session active - element found - 2025-04-02 23:41:27
+[2025-04-02 23:41:27] | INFO     | ==================================================
+[2025-04-02 23:41:27] | INFO     | 2025-04-02 23:41:27
+[2025-04-02 23:41:27] | INFO     | follow processing: pgdesignsage
+[2025-04-02 23:41:27] | INFO     | ==================================================
+[2025-04-02 23:41:36] | SUCCESS  | pgdesignsage account is followed
+[2025-04-02 23:41:36] | INFO     | after the follow-up, 10 seconds will be waited
+[2025-04-02 23:41:46] | INFO     | successfully followed: pgdesignsage
+[2025-04-02 23:41:51] | INFO     | ==================================================
+[2025-04-02 23:41:51] | INFO     | 2025-04-02 23:41:51
+[2025-04-02 23:41:51] | INFO     | follow processing: waymac_x
+[2025-04-02 23:41:51] | INFO     | ==================================================
+[2025-04-02 23:41:52] | DEBUG    | waymac_x account is already being followed
+[2025-04-02 23:41:59] | INFO     | ==================================================
+[2025-04-02 23:41:59] | INFO     | 2025-04-02 23:41:59
+[2025-04-02 23:41:59] | INFO     | follow processing: fundedxprop
+[2025-04-02 23:41:59] | INFO     | ==================================================
+[2025-04-02 23:42:00] | DEBUG    | fundedxprop account is already being followed
+[2025-04-02 23:42:07] | INFO     | progress saved: bekir44969
+[2025-04-02 23:42:07] | DEBUG    | saved data: tweet count=24, follow count=0
+[2025-04-02 23:42:07] | DEBUG    | step updated: giveaway
+[2025-04-02 23:42:07] | DEBUG    | starting giveaway operations...
+[2025-04-02 23:42:13] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:42:25] | SUCCESS  | session active - element found - 2025-04-02 23:42:25
+[2025-04-02 23:42:25] | DEBUG    | process url: https://x.com/realaditrades/status/1907335506720866595
+[2025-04-02 23:42:48] | DEBUG    | wait time: 13 seconds
+[2025-04-02 23:43:01] | SUCCESS  | liked: https://x.com/realaditrades/status/1907335506720866595
+[2025-04-02 23:43:04] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:43:16] | SUCCESS  | retweeted: https://x.com/realaditrades/status/1907335506720866595
+[2025-04-02 23:43:16] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:43:16] | DEBUG    | İşlenecek URL: https://x.com/realaditrades/status/1907335506720866595
+[2025-04-02 23:43:16] | DEBUG    | Yorum metni: @sport1357901 @libre80049 @aprilla53100 @iktidar15...
+[2025-04-02 23:43:18] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:43:18] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:43:29] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:43:37] | SUCCESS  | Yorum başarıyla eklendi - bekir44969
+[2025-04-02 23:43:37] | DEBUG    | Bekleme süresi: 18 saniye
+[2025-04-02 23:43:55] | SUCCESS  | comment posted: @sport1357901 @libre80049 @aprilla53100 @iktidar159 @vagon1103
+[2025-04-02 23:44:00] | INFO     | progress saved: bekir44969
+[2025-04-02 23:44:00] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:44:00] | DEBUG    | Progress saved
+[2025-04-02 23:44:00] | DEBUG    | process url: https://x.com/alphatraderfirm/status/1907002832366231615
+[2025-04-02 23:44:25] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:44:37] | SUCCESS  | liked: https://x.com/alphatraderfirm/status/1907002832366231615
+[2025-04-02 23:44:39] | DEBUG    | wait time: 15 seconds
+[2025-04-02 23:44:54] | SUCCESS  | retweeted: https://x.com/alphatraderfirm/status/1907002832366231615
+[2025-04-02 23:44:54] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:44:54] | DEBUG    | İşlenecek URL: https://x.com/alphatraderfirm/status/1907002832366231615
+[2025-04-02 23:44:54] | DEBUG    | Yorum metni: @libre80049 @iktidar159 @sport1357901...
+[2025-04-02 23:44:57] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:44:58] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:45:08] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:45:16] | SUCCESS  | Yorum başarıyla eklendi - bekir44969
+[2025-04-02 23:45:16] | DEBUG    | Bekleme süresi: 20 saniye
+[2025-04-02 23:45:36] | SUCCESS  | comment posted: @libre80049 @iktidar159 @sport1357901
+[2025-04-02 23:45:42] | INFO     | progress saved: bekir44969
+[2025-04-02 23:45:42] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:45:42] | DEBUG    | Progress saved
+[2025-04-02 23:45:48] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:46:01] | SUCCESS  | session active - element found - 2025-04-02 23:46:01
+[2025-04-02 23:46:01] | DEBUG    | process url: https://x.com/JABZ_FX/status/1907446709212393841
+[2025-04-02 23:46:25] | DEBUG    | wait time: 13 seconds
+[2025-04-02 23:46:38] | SUCCESS  | liked: https://x.com/JABZ_FX/status/1907446709212393841
+[2025-04-02 23:46:42] | DEBUG    | wait time: 18 seconds
+[2025-04-02 23:47:00] | SUCCESS  | retweeted: https://x.com/JABZ_FX/status/1907446709212393841
+[2025-04-02 23:47:00] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:47:00] | DEBUG    | İşlenecek URL: https://x.com/JABZ_FX/status/1907446709212393841
+[2025-04-02 23:47:00] | DEBUG    | Yorum metni: @vagon1103 @iktidar159 @aprilla53100...
+[2025-04-02 23:47:02] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:47:03] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:47:12] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:47:20] | SUCCESS  | Yorum başarıyla eklendi - bekir44969
+[2025-04-02 23:47:20] | DEBUG    | Bekleme süresi: 18 saniye
+[2025-04-02 23:47:38] | SUCCESS  | comment posted: @vagon1103 @iktidar159 @aprilla53100
+[2025-04-02 23:47:43] | INFO     | progress saved: bekir44969
+[2025-04-02 23:47:43] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:47:43] | DEBUG    | Progress saved
+[2025-04-02 23:47:43] | DEBUG    | process url: https://x.com/DukeDarls/status/1907333656344928276
+[2025-04-02 23:48:07] | DEBUG    | wait time: 10 seconds
+[2025-04-02 23:48:17] | SUCCESS  | liked: https://x.com/DukeDarls/status/1907333656344928276
+[2025-04-02 23:48:19] | DEBUG    | wait time: 15 seconds
+[2025-04-02 23:48:34] | SUCCESS  | retweeted: https://x.com/DukeDarls/status/1907333656344928276
+[2025-04-02 23:48:34] | INFO     | skip comment for: https://x.com/DukeDarls/status/1907333656344928276
+[2025-04-02 23:48:39] | INFO     | progress saved: bekir44969
+[2025-04-02 23:48:39] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:48:39] | DEBUG    | Progress saved
+[2025-04-02 23:48:46] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:48:57] | SUCCESS  | session active - element found - 2025-04-02 23:48:57
+[2025-04-02 23:48:57] | DEBUG    | process url: https://x.com/Northern1trader/status/1907311083183899114
+[2025-04-02 23:49:22] | DEBUG    | wait time: 8 seconds
+[2025-04-02 23:49:30] | SUCCESS  | liked: https://x.com/Northern1trader/status/1907311083183899114
+[2025-04-02 23:49:32] | DEBUG    | wait time: 16 seconds
+[2025-04-02 23:49:48] | SUCCESS  | retweeted: https://x.com/Northern1trader/status/1907311083183899114
+[2025-04-02 23:49:48] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:49:48] | DEBUG    | İşlenecek URL: https://x.com/Northern1trader/status/1907311083183899114
+[2025-04-02 23:49:48] | DEBUG    | Yorum metni: @iktidar159 @libre80049 @vagon1103 @sport1357901...
+[2025-04-02 23:49:50] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:49:51] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:50:00] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:50:09] | SUCCESS  | Yorum başarıyla eklendi - bekir44969
+[2025-04-02 23:50:09] | DEBUG    | Bekleme süresi: 24 saniye
+[2025-04-02 23:50:33] | SUCCESS  | comment posted: @iktidar159 @libre80049 @vagon1103 @sport1357901
+[2025-04-02 23:50:39] | INFO     | progress saved: bekir44969
+[2025-04-02 23:50:39] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:50:39] | DEBUG    | Progress saved
+[2025-04-02 23:50:39] | DEBUG    | process url: https://x.com/PropFirmMatch/status/1906741904831557962
+[2025-04-02 23:51:05] | DEBUG    | wait time: 8 seconds
+[2025-04-02 23:51:13] | SUCCESS  | liked: https://x.com/PropFirmMatch/status/1906741904831557962
+[2025-04-02 23:51:15] | DEBUG    | wait time: 18 seconds
+[2025-04-02 23:51:33] | SUCCESS  | retweeted: https://x.com/PropFirmMatch/status/1906741904831557962
+[2025-04-02 23:51:33] | INFO     | skip comment for: https://x.com/PropFirmMatch/status/1906741904831557962
+[2025-04-02 23:51:42] | INFO     | progress saved: bekir44969
+[2025-04-02 23:51:42] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:51:42] | DEBUG    | Progress saved
+[2025-04-02 23:51:48] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:51:59] | SUCCESS  | session active - element found - 2025-04-02 23:51:59
+[2025-04-02 23:51:59] | DEBUG    | process url: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:52:24] | DEBUG    | wait time: 11 seconds
+[2025-04-02 23:52:35] | SUCCESS  | liked: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:52:38] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:52:50] | SUCCESS  | retweeted: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:52:50] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:52:50] | DEBUG    | İşlenecek URL: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:52:50] | DEBUG    | Yorum metni: @libre80049 @aprilla53100 @sport1357901...
+[2025-04-02 23:52:53] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:52:54] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:53:02] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:53:21] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:53:21] | WARNING  | comment failed: https://x.com/sas_here7/status/1907335641165185479
+[2025-04-02 23:53:30] | INFO     | progress saved: bekir44969
+[2025-04-02 23:53:30] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:53:30] | DEBUG    | Progress saved
+[2025-04-02 23:53:30] | DEBUG    | process url: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:53:54] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:54:06] | SUCCESS  | liked: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:54:08] | DEBUG    | wait time: 17 seconds
+[2025-04-02 23:54:25] | SUCCESS  | retweeted: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:54:25] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:54:25] | DEBUG    | İşlenecek URL: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:54:25] | DEBUG    | Yorum metni: @aprilla53100 @libre80049 @sport1357901...
+[2025-04-02 23:54:28] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:54:28] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:54:37] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:54:55] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:54:55] | WARNING  | comment failed: https://x.com/Major__Fx/status/1907147554086584610
+[2025-04-02 23:55:01] | INFO     | progress saved: bekir44969
+[2025-04-02 23:55:01] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:55:01] | DEBUG    | Progress saved
+[2025-04-02 23:55:07] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:55:20] | SUCCESS  | session active - element found - 2025-04-02 23:55:20
+[2025-04-02 23:55:20] | DEBUG    | process url: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:55:43] | DEBUG    | wait time: 8 seconds
+[2025-04-02 23:55:51] | SUCCESS  | liked: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:55:55] | DEBUG    | wait time: 17 seconds
+[2025-04-02 23:56:12] | SUCCESS  | retweeted: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:56:12] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:56:12] | DEBUG    | İşlenecek URL: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:56:12] | DEBUG    | Yorum metni: @iktidar159 @sport1357901 @libre80049...
+[2025-04-02 23:56:15] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:56:15] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:56:23] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:56:42] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:56:42] | WARNING  | comment failed: https://x.com/LarLarskie1/status/1906658862067077516
+[2025-04-02 23:56:48] | INFO     | progress saved: bekir44969
+[2025-04-02 23:56:48] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:56:48] | DEBUG    | Progress saved
+[2025-04-02 23:56:48] | DEBUG    | process url: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:11] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:57:24] | SUCCESS  | liked: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:26] | DEBUG    | wait time: 19 seconds
+[2025-04-02 23:57:45] | SUCCESS  | retweeted: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:45] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:57:45] | DEBUG    | İşlenecek URL: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:57:45] | DEBUG    | Yorum metni: @aprilla53100 @iktidar159 @sport1357901 @vagon1103...
+[2025-04-02 23:57:48] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:57:48] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:57:59] | DEBUG    | Yorum metni girildi
+[2025-04-02 23:58:17] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-02 23:58:17] | WARNING  | comment failed: https://x.com/Pooja_FX/status/1907441485844517130
+[2025-04-02 23:58:24] | INFO     | progress saved: bekir44969
+[2025-04-02 23:58:24] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-02 23:58:24] | DEBUG    | Progress saved
+[2025-04-02 23:58:30] | DEBUG    | checking session status, attempt 1...
+[2025-04-02 23:58:43] | SUCCESS  | session active - element found - 2025-04-02 23:58:43
+[2025-04-02 23:58:43] | DEBUG    | process url: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:09] | DEBUG    | wait time: 12 seconds
+[2025-04-02 23:59:21] | SUCCESS  | liked: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:23] | DEBUG    | wait time: 16 seconds
+[2025-04-02 23:59:39] | SUCCESS  | retweeted: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:39] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-02 23:59:39] | DEBUG    | İşlenecek URL: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-02 23:59:39] | DEBUG    | Yorum metni: @libre80049 @sport1357901 @aprilla53100...
+[2025-04-02 23:59:42] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-02 23:59:42] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-02 23:59:50] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:00:09] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:00:09] | WARNING  | comment failed: https://x.com/srikrish_KD/status/1907423382993301822
+[2025-04-03 00:00:14] | INFO     | progress saved: bekir44969
+[2025-04-03 00:00:14] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:00:14] | DEBUG    | Progress saved
+[2025-04-03 00:00:14] | DEBUG    | process url: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:00:40] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:00:54] | SUCCESS  | liked: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:00:56] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:01:16] | SUCCESS  | retweeted: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:01:16] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:01:16] | DEBUG    | İşlenecek URL: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:01:16] | DEBUG    | Yorum metni: @vagon1103 @libre80049 @sport1357901...
+[2025-04-03 00:01:19] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:01:19] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:01:27] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:01:46] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:01:46] | WARNING  | comment failed: https://x.com/reeyah_sa/status/1907346996236624254
+[2025-04-03 00:01:54] | INFO     | progress saved: bekir44969
+[2025-04-03 00:01:54] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:01:54] | DEBUG    | Progress saved
+[2025-04-03 00:02:00] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:02:13] | SUCCESS  | session active - element found - 2025-04-03 00:02:13
+[2025-04-03 00:02:13] | DEBUG    | process url: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:02:38] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:02:52] | SUCCESS  | liked: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:02:55] | DEBUG    | wait time: 18 seconds
+[2025-04-03 00:03:13] | SUCCESS  | retweeted: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:03:13] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:03:13] | DEBUG    | İşlenecek URL: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:03:13] | DEBUG    | Yorum metni: @libre80049 @aprilla53100 @vagon1103...
+[2025-04-03 00:03:16] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:03:16] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:03:24] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:03:43] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:03:43] | WARNING  | comment failed: https://x.com/RealTraderSeun/status/1906774791404548240
+[2025-04-03 00:03:49] | INFO     | progress saved: bekir44969
+[2025-04-03 00:03:49] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:03:49] | DEBUG    | Progress saved
+[2025-04-03 00:03:49] | DEBUG    | process url: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:14] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:04:28] | SUCCESS  | liked: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:30] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:04:50] | SUCCESS  | retweeted: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:50] | INFO     | skip comment for: https://x.com/bpchaffee/status/1906832542990520408
+[2025-04-03 00:04:58] | INFO     | progress saved: bekir44969
+[2025-04-03 00:04:58] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:04:58] | DEBUG    | Progress saved
+[2025-04-03 00:05:04] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:05:15] | SUCCESS  | session active - element found - 2025-04-03 00:05:15
+[2025-04-03 00:05:15] | DEBUG    | process url: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:05:40] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:05:54] | SUCCESS  | liked: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:05:58] | DEBUG    | wait time: 16 seconds
+[2025-04-03 00:06:14] | SUCCESS  | retweeted: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:06:14] | INFO     | skip comment for: https://x.com/remittix/status/1907178063466537220
+[2025-04-03 00:06:19] | INFO     | progress saved: bekir44969
+[2025-04-03 00:06:19] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:06:19] | DEBUG    | Progress saved
+[2025-04-03 00:06:19] | DEBUG    | process url: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:06:46] | DEBUG    | wait time: 15 seconds
+[2025-04-03 00:07:01] | SUCCESS  | liked: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:07:04] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:07:17] | SUCCESS  | retweeted: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:07:17] | INFO     | skip comment for: https://x.com/Kale_3D/status/1906776809049653362
+[2025-04-03 00:07:27] | INFO     | progress saved: bekir44969
+[2025-04-03 00:07:27] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:07:27] | DEBUG    | Progress saved
+[2025-04-03 00:07:33] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:07:45] | SUCCESS  | session active - element found - 2025-04-03 00:07:45
+[2025-04-03 00:07:45] | DEBUG    | process url: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:08] | DEBUG    | wait time: 10 seconds
+[2025-04-03 00:08:18] | SUCCESS  | liked: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:22] | DEBUG    | wait time: 16 seconds
+[2025-04-03 00:08:38] | SUCCESS  | retweeted: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:38] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:08:38] | DEBUG    | İşlenecek URL: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:08:38] | DEBUG    | Yorum metni: @aprilla53100 @iktidar159 @vagon1103 @sport1357901...
+[2025-04-03 00:08:41] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:08:41] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:08:51] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:09:10] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:09:10] | WARNING  | comment failed: https://x.com/MoStylzz/status/1906643450155417724
+[2025-04-03 00:09:18] | INFO     | progress saved: bekir44969
+[2025-04-03 00:09:18] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:09:18] | DEBUG    | Progress saved
+[2025-04-03 00:09:18] | DEBUG    | process url: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:09:42] | DEBUG    | wait time: 12 seconds
+[2025-04-03 00:09:54] | SUCCESS  | liked: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:09:57] | DEBUG    | wait time: 10 seconds
+[2025-04-03 00:10:07] | SUCCESS  | retweeted: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:10:07] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:10:07] | DEBUG    | İşlenecek URL: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:10:07] | DEBUG    | Yorum metni: @aprilla53100 @vagon1103 @libre80049...
+[2025-04-03 00:10:10] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:10:10] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:10:19] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:10:38] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:10:38] | WARNING  | comment failed: https://x.com/TraderSamm/status/1907147509778297284
+[2025-04-03 00:10:48] | INFO     | progress saved: bekir44969
+[2025-04-03 00:10:48] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:10:48] | DEBUG    | Progress saved
+[2025-04-03 00:10:54] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:11:05] | SUCCESS  | session active - element found - 2025-04-03 00:11:05
+[2025-04-03 00:11:05] | DEBUG    | process url: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:28] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:11:41] | SUCCESS  | liked: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:44] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:11:57] | SUCCESS  | retweeted: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:57] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:11:57] | DEBUG    | İşlenecek URL: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:11:57] | DEBUG    | Yorum metni: @aprilla53100 @libre80049 @sport1357901 #propfirme...
+[2025-04-03 00:12:00] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:12:00] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:12:09] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:12:28] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:12:28] | WARNING  | comment failed: https://x.com/Propfirmedge/status/1907461969269215654
+[2025-04-03 00:12:35] | INFO     | progress saved: bekir44969
+[2025-04-03 00:12:35] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:12:35] | DEBUG    | Progress saved
+[2025-04-03 00:12:35] | DEBUG    | process url: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:00] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:13:14] | SUCCESS  | liked: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:17] | DEBUG    | wait time: 12 seconds
+[2025-04-03 00:13:29] | SUCCESS  | retweeted: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:29] | INFO     | skip comment for: https://x.com/Carwhorns/status/1907478763241152946
+[2025-04-03 00:13:38] | INFO     | progress saved: bekir44969
+[2025-04-03 00:13:38] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:13:38] | DEBUG    | Progress saved
+[2025-04-03 00:13:44] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:13:56] | SUCCESS  | session active - element found - 2025-04-03 00:13:56
+[2025-04-03 00:13:56] | DEBUG    | process url: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:21] | DEBUG    | wait time: 11 seconds
+[2025-04-03 00:14:32] | SUCCESS  | liked: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:36] | DEBUG    | wait time: 13 seconds
+[2025-04-03 00:14:49] | SUCCESS  | retweeted: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:49] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:14:49] | DEBUG    | İşlenecek URL: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:14:49] | DEBUG    | Yorum metni: Feeling lucky, let’s win this together🍀...
+[2025-04-03 00:14:52] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:14:52] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:15:00] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B94AF2]
+        (No symbol) [0x00B534E2]
+        (No symbol) [0x00B52A17]
+        (No symbol) [0x00B7D7BC]
+        (No symbol) [0x00B4E114]
+        (No symbol) [0x00B7DA34]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:15:00] | WARNING  | comment failed: https://x.com/wannabechamp/status/1906667828272365892
+[2025-04-03 00:15:05] | INFO     | progress saved: bekir44969
+[2025-04-03 00:15:05] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:15:05] | DEBUG    | Progress saved
+[2025-04-03 00:15:05] | DEBUG    | process url: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:15:30] | DEBUG    | wait time: 12 seconds
+[2025-04-03 00:15:42] | SUCCESS  | liked: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:15:46] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:16:06] | SUCCESS  | retweeted: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:16:06] | INFO     | Yorum işlemi başlatılıyor - bekir44969
+[2025-04-03 00:16:06] | DEBUG    | İşlenecek URL: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:16:06] | DEBUG    | Yorum metni: @libre80049 @iktidar159 @vagon1103...
+[2025-04-03 00:16:09] | DEBUG    | Tweet pozisyonu bulundu: 0
+[2025-04-03 00:16:09] | DEBUG    | Reply butonu tıklandı (pozisyon ile)
+[2025-04-03 00:16:18] | DEBUG    | Yorum metni girildi
+[2025-04-03 00:16:36] | ERROR    | Yorum ekleme hatası - bekir44969, Hata: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:16:36] | WARNING  | comment failed: https://x.com/waymac_x/status/1906595932751155468
+[2025-04-03 00:16:44] | INFO     | progress saved: bekir44969
+[2025-04-03 00:16:44] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:16:44] | DEBUG    | Progress saved
+[2025-04-03 00:16:51] | DEBUG    | checking session status, attempt 1...
+[2025-04-03 00:17:02] | SUCCESS  | session active - element found - 2025-04-03 00:17:02
+[2025-04-03 00:17:02] | DEBUG    | process url: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:17:28] | DEBUG    | wait time: 9 seconds
+[2025-04-03 00:17:37] | SUCCESS  | liked: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:17:41] | DEBUG    | wait time: 20 seconds
+[2025-04-03 00:18:01] | SUCCESS  | retweeted: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:18:01] | INFO     | skip comment for: https://x.com/fundedxprop/status/1907115749765763436
+[2025-04-03 00:18:09] | INFO     | progress saved: bekir44969
+[2025-04-03 00:18:09] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:18:09] | DEBUG    | Progress saved
+[2025-04-03 00:18:09] | DEBUG    | process url: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:18:35] | DEBUG    | wait time: 14 seconds
+[2025-04-03 00:18:49] | SUCCESS  | liked: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:18:53] | DEBUG    | wait time: 17 seconds
+[2025-04-03 00:19:10] | SUCCESS  | retweeted: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:19:10] | INFO     | skip comment for: https://x.com/fundedxprop/status/1906692964069371912
+[2025-04-03 00:19:16] | INFO     | progress saved: bekir44969
+[2025-04-03 00:19:16] | DEBUG    | saved data: tweet count=24, follow count=21
+[2025-04-03 00:19:16] | DEBUG    | Progress saved
+[2025-04-03 00:19:16] | DEBUG    | starting tweet operations for bekir44969
+[2025-04-03 00:19:16] | INFO     | Posting 1 tweets from sentence_to_tweet for bekir44969
+[2025-04-03 00:19:16] | INFO     | initiating tweet sharing - bekir44969
+[2025-04-03 00:19:16] | DEBUG    | tweet text: Nature is the best therapyTake a walk outside🌳...
+[2025-04-03 00:19:36] | DEBUG    | tweet text entered
+[2025-04-03 00:20:09] | ERROR    | tweet sharing error - bekir44969, error: Message:
+Stacktrace:
+        GetHandleVerifier [0x00CBC7F3+24435]
+        (No symbol) [0x00C42074]
+        (No symbol) [0x00B106E3]
+        (No symbol) [0x00B58B39]
+        (No symbol) [0x00B58E8B]
+        (No symbol) [0x00BA1AC2]
+        (No symbol) [0x00B7D804]
+        (No symbol) [0x00B9F20A]
+        (No symbol) [0x00B7D5B6]
+        (No symbol) [0x00B4C54F]
+        (No symbol) [0x00B4D894]
+        GetHandleVerifier [0x00FC70A3+3213347]
+        GetHandleVerifier [0x00FDB0C9+3295305]
+        GetHandleVerifier [0x00FD558C+3271948]
+        GetHandleVerifier [0x00D57360+658144]
+        (No symbol) [0x00C4B27D]
+        (No symbol) [0x00C48208]
+        (No symbol) [0x00C483A9]
+        (No symbol) [0x00C3AAC0]
+        BaseThreadInitThunk [0x75DDFCC9+25]
+        RtlGetAppContainerNamedObjectPath [0x77D482AE+286]
+        RtlGetAppContainerNamedObjectPath [0x77D4827E+238]
+
+[2025-04-03 00:20:09] | ERROR    | Failed to post tweet: Nature is the best therapyTake a walk outside🌳
+[2025-04-03 00:20:14] | DEBUG    | starting random RT and fav operations for bekir44969
+[2025-04-03 00:20:14] | INFO     | random tweet/rt actions started
+[2025-04-03 00:20:14] | INFO     | 2025-04-03 00:20:14
+[2025-04-03 00:20:14] | INFO     | bekir44969
+[2025-04-03 00:20:14] | INFO     | target tweet count: 1
+[2025-04-03 00:20:14] | DEBUG    | shared links loaded - total: 62
+[2025-04-03 00:20:14] | DEBUG    | configuration loaded - RSS feed count: 21
+[2025-04-03 00:20:14] | DEBUG    | selected RSS feed: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:15] | WARNING  | this feed has no new news: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:15] | DEBUG    | shared links loaded - total: 62
+[2025-04-03 00:20:15] | DEBUG    | configuration loaded - RSS feed count: 21
+[2025-04-03 00:20:15] | DEBUG    | selected RSS feed: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:16] | WARNING  | this feed has no new news: https://bleacherreport.com/articles/feed
+[2025-04-03 00:20:16] | DEBUG    | shared links loaded - total: 62
+[2025-04-03 00:20:16] | DEBUG    | configuration loaded - RSS feed count: 21
+[2025-04-03 00:20:16] | DEBUG    | selected RSS feed: https://www.sciencealert.com/rss
+[2025-04-03 00:20:17] | DEBUG    | new link saved: https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans
+[2025-04-03 00:20:17] | INFO     | news selected - Title: Once Lush Sahara Was Home to a Surprisingly Unique...
+[2025-04-03 00:20:17] | INFO     | initiating tweet sharing - bekir44969
+[2025-04-03 00:20:17] | DEBUG    | tweet text: Once Lush Sahara Was Home to a Surprisingly Unique...
+[2025-04-03 00:20:44] | DEBUG    | tweet text entered
+[2025-04-03 00:21:13] | SUCCESS  | tweet shared (1/1)
+[2025-04-03 00:23:45] | INFO     | rt operations are being initiated
